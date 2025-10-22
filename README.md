@@ -1,6 +1,9 @@
-<p align ="center"
-rmking ...
-  </p>
+<p align="center">
+  ­ ­ ­ ­  ­rmking ...
+</p>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TlLL-the-end&color=9acddd&style=plastic&label= 🎸 " />
+</p>
 
 <!--
 **till-scars/till-scars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
