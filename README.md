@@ -10,6 +10,10 @@
 ───────── ⋆⋅𖤓⋅⋆ ─────────
 </p>
 
-  ­  ­  ­  ­  ­  ­⤷ ゛[𝐀𝐓𝐀](https://tillscars.atabook.org/) ┆ [𝐂𝐀𝐑𝐑𝐃](https://till-scars.carrd.co) ┆ [𝐏𝐑𝐍𝐒](https://pronouns.cc/@till-scars) ˎˊ˗
+<div align="center">
+<div>
+  
+­⤷ ゛[𝐀𝐓𝐀](https://tillscars.atabook.org/) ┆ [𝐂𝐀𝐑𝐑𝐃](https://till-scars.carrd.co) ┆ [𝐏𝐑𝐍𝐒](https://pronouns.cc/@till-scars) ˎˊ˗
+</div>
 
 <img width="1500" height="500" alt="Untitled522_20260102174010" src="https://github.com/user-attachments/assets/d58fa756-f7ba-4555-959c-abc6dbb31335" />
